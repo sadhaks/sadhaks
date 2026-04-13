@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 🎓 Undergraduate student passionate about Software Engineering  
 💻 Interested in building real-world software systems  
 🚀 Currently working on academic and personal projects using modern technologies
+---
+## 💻 Skills
+
+- Programming: Java / Python
+- Database: MySQL  
+- Tools: Git, GitHub  
+---
