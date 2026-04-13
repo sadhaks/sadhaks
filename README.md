@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - Database: MySQL  
 - Tools: Git, GitHub  
 ---
+## ⚡ Fun Fact
+
+I’m continuously learning and improving my skills to become a professional developer 🚀
