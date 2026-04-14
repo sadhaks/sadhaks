@@ -14,16 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Undergraduate student passionate about Software Engineering  
-💻 Interested in building real-world software systems  
+🎓 Undergraduate student passionate about Computer Engineering  
+💻 Interested in building real-world systems  
 🚀 Currently working on academic and personal projects using modern technologies
 ---
-## 💻 Skills
 
-- Programming: Java / Python
-- Database: MySQL  
-- Tools: Git, GitHub  
----
 ## ⚡ Fun Fact
 
 I’m continuously learning and improving my skills to become a professional developer 🚀
